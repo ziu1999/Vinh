@@ -1,0 +1,167 @@
+.page{
+	width: 1366px;
+	height: auto;
+	margin: 0 auto;
+	background-color: black;
+}
+.header{
+	float: left;
+	width: 100%;
+}
+.a1{
+	background-color: #ffab5c;
+	height: 35px;
+}
+.insider.headerA1{
+	margin: 3px 98px;
+}
+.header-left{
+	float: left;
+	color: white;
+}
+.header-right{
+	float: right;
+	margin-left: 7px;
+	color: white;
+
+}
+.header-right.t2{
+	margin: 0px 7px;
+	border-right: white solid 1px;
+}
+.a2{
+	background-color: silver;
+	height: 80px;
+}
+.page-slide{
+	width: 100%;
+	height: 435px; 
+	background-color: orange;
+	float: left;
+}
+.ThietKeNoiThat-DuAnMoiNhat{
+	width: 1366px;
+	height: 390px;
+	float: left;
+	background: white;
+}
+.insiderThietKeNoiThat{
+	width: 1170px;
+	height: 370px;
+	margin: 10px 98px;
+}
+.ThietKeNoiThat{
+	width: 770px;
+	height: 370px;
+	border: #e0e0e0 solid 2px;
+	float: left;
+
+}
+.DuAnMoiNhat{
+	width: 382px;
+	height: 370px;
+	border: #ffae52 dashed 2px;
+	margin-left: 10px;
+	float: left;
+}
+.ThiCongNoiThat{
+	background-color: #ffe38f;
+	width: 1366px;
+	height: 820px;
+	float: left;
+}
+.insiderThiCongNoiThat{
+	width: 1170px;
+	height: 740px;
+	margin: 40px 98px;
+	background: white;
+}
+.ThiCong{
+	float: left;
+	width: 870px;
+	height: 740px;
+	background: red;
+}
+.ThiCongb{
+	float: left;
+	width: 290px;
+	height: 365px;
+	background: red;
+	margin-left: 10px;
+}
+.VideoGioiThieu{
+	margin-top: 10px;
+}
+.CaiTaoSuaChua{
+	background-color: silver;
+	width: 1366px;
+	height: 440px;
+	float: left;
+}
+.insiderCaiTaoSuaChua{
+	width: 1170px;
+	height: 400px;
+	margin: 20px 98px;
+	background: white;
+}
+.CaiTao{
+	float: left;
+	width: 870px;
+	height: 400px;
+	background: red;
+}
+.CaiTaob{
+	float: left;
+	width: 290px;
+	height: 240px;
+	background: red;
+	margin-left: 10px;
+}
+.SuaChua2{
+	margin-top: 10px;
+	height: 150px;
+}
+.LienHeTuVan{
+	width: 1366px;
+	height: 130px;
+	background-color: red;
+	float: left;
+}
+.ViSaoLuaChon{
+	width: 1366px;
+	height: 370px;
+	background-color: silver;
+	float: left;
+}
+.TinTucBaiViet{
+	width: 1366px;
+	height: 500px;
+	background-color: #ffe38f;
+	float: left;
+}
+.ThongTinLienHe{
+	width: 1366px;
+	height: 390px;
+	background-color: silver;
+	float: left;
+}
+.Copyright2020{
+	width: 1366px;
+	height: 70px;
+	background-color: red;
+	float: left;
+}
+.insider{
+	width: 1170px;
+	margin: 20px 98px;
+	background: white;
+}
+.VSLC{
+	height: 330px; 
+}
+.TTBV{
+	height: 460px;
+}
+.TTLH{
+	height: 350px;
+}
